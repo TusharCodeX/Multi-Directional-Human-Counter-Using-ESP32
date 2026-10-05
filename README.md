@@ -130,7 +130,7 @@ You can test and inspect the full circuit and code simulation in your browser:
 
 | Sl. No. | Student Name | University Roll No. | Major Contribution |
 | :---: | :--- | :---: | :--- |
-| 1 | **Tushar Roy** | `120016244066` | System development, web dashboard, firmware programming & testing |
+| 1 | **Tushar Roy** | `120016244066` | System development,Circiut Design, web dashboard, firmware programming & testing |
 | 2 | **Debayan Laha** | `120016244021` | Sensor interfacing, hardware implementation & documentation |
 | 3 | **Chanchal Bhattacharjee** | `120016244019` | Project planning & documentation |
 | 4 | **Debasish Dutta** | `120016244020` | Hardware assembly & software support |
